@@ -1,0 +1,56 @@
+/* Form file CSS */
+.form-div {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    background-color: tan;
+    width: 30vw;
+    height: 55vh;
+}
+
+.heading {
+    margin-left: 50px;
+}
+
+.label, .radio {
+    margin-left: 25px;
+}
+
+.input-text{
+    margin-bottom: 20px;
+}
+
+.btn {
+    margin-top: 20px;
+    width: 70px;
+    height: 40px;
+    border: 1;
+    border-radius: 25;
+    background-color: lightblue;
+    border-color: cornflowerblue;
+    margin-left: 30px;
+}
+
+/* Tables file CSS */
+.table-div {
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+table {
+    background-color: lightblue;
+}
+
+th {
+    font-weight: 900;
+    font-size: 24;
+    text-align: center;
+}
+
+td {
+    font-weight: 600;
+    font-size: 32;
+    text-align: left;
+}
